@@ -15,6 +15,7 @@ Global
 		{AC1441DB-5016-424F-A271-A5E31A214638}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC1441DB-5016-424F-A271-A5E31A214638}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC1441DB-5016-424F-A271-A5E31A214638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1441DB-5016-424F-A271-A5E31A214638}.Release|Any CPU.Build.0 = Release|Any CPU *added one line command
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
